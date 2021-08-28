@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey :wave: , I'm Nawress RAFRAFI — a Software Engineer 👨‍💻
 
-<!--
-**RafrafiNawress/RafrafiNawress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity.
+<dl>
+  <dt>Talking about Personal Stuffs:</dt>
+<dd>🛠   I’m currently working with springBoot, Angular, JavaEE, MySQL, Mongodb, PostgreSQL etc.</dd>
+<dd>🚀   I’m currently learning DevOps & Docker.</dd>
+<dd>👨🏻‍💻   Most of my projects are available on [GitHub](https://medium.com/@nawress-rafrafi)</dd>
+<dd>💬   Read my blogs which I publish here : https://medium.com/@nawress-rafrafi</dd>
+<dd>📫   How to reach me: nawress.rafrafi@esprit.tn</dd><br>
+  <dt>My Absolute Favorites:</dt>
+<dd>💻   I love exploring new tech stack and developing new stuffs</dd>
+<dd>📰   Reading & writing tech blogs whenever possible</dd>
+</dl>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Thank you for reading, Share your ❤️ by starring some of the repositories! 🌟
