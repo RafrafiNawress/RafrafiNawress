@@ -5,7 +5,7 @@ Software Engineering is something which coincides with my passion and hobby. Alw
   <dt>Talking about Personal Stuffs:</dt>
 <dd>🛠   I’m currently working with springBoot, Angular, JavaEE, MySQL, Mongodb, PostgreSQL etc.</dd>
 <dd>🚀   I’m currently learning DevOps & Docker.</dd>
-<dd>👨🏻‍💻   Most of my projects are available on [GitHub](https://medium.com/@nawress-rafrafi)</dd>
+<dd>👨🏻‍💻   Most of my projects are available on GitHub</dd>
 <dd>💬   Read my blogs which I publish here : https://medium.com/@nawress-rafrafi</dd>
 <dd>📫   How to reach me: nawress.rafrafi@esprit.tn</dd><br>
   <dt>My Absolute Favorites:</dt>
