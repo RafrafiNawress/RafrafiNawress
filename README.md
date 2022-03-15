@@ -13,4 +13,6 @@ Software Engineering is something which coincides with my passion and hobby. Alw
 <dd>📰   Reading & writing tech blogs whenever possible</dd>
 </dl>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RafrafiNawress)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Thank you for reading, Share your ❤️ by starring some of the repositories! 🌟
